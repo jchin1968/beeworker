@@ -1,0 +1,3 @@
+beeworker.egg-info/*
+venv/*
+*.pyc
